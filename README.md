@@ -1,7 +1,7 @@
 
 # HotSkins
 
-![HotSkins Logo](https://raw.githubusercontent.com/Jas-5808/my-vue-app/858f7845601e917f464a2123b6c8bb2ada58aa40/Logo.svg?token=A4SBN45S5JNQIUVGQTCW3STHDJETS) <!-- Здесь можно вставить ссылку на изображение логотипа проекта -->
+![HotSkins Logo](https://raw.githubusercontent.com/Jas-5808/my-vue-app/25b0b01e23e9297fee46398c17a7a955fed4a55e/Image/Logo.svg?token=A4SBN45EKUD267TZYYUV5RDHDJH7A) <!-- Здесь можно вставить ссылку на изображение логотипа проекта -->
 
 ## О проекте
 
