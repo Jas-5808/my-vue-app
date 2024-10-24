@@ -13,8 +13,8 @@
 
 ## Скриншоты
 
-![Скриншот 1](ссылка_на_скриншот_1)
-![Скриншот 2](ссылка_на_скриншот_2)
+![Скриншот 1](https://github.com/Jas-5808/my-vue-app/blob/main/Image/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png?raw=true)
+![Скриншот 2](https://github.com/Jas-5808/my-vue-app/blob/main/Image/%D0%9F%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%87%D1%91%D1%82%D0%B0%20-%20CS_GO.png?raw=true)
 
 ## Особенности
 
@@ -37,11 +37,11 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш_пользователь/HotSkins.git
+   git clone https://github.com/Jas-5808/my-vue-app.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
-   cd HotSkins
+   cd my-vue-app
    ```
 3. Установите зависимости:
    ```bash
@@ -49,7 +49,7 @@
    ```
 4. Запустите приложение:
    ```bash
-   npm run serve
+   npm run dev
    ```
 
 ## Как использовать
@@ -60,12 +60,12 @@
 
 ## Участие в проекте
 
-Если вы хотите внести свой вклад в проект, пожалуйста, создайте [issue](ссылка_на_issues) или отправьте pull request. Мы будем рады вашему участию!
+Если вы хотите внести свой вклад в проект, пожалуйста, создайте [issue](https://github.com/Jas-5808/my-vue-app/issues/1#issue-2611641222) или отправьте pull request. Мы будем рады вашему участию!
 
 ## Лицензия
 
-Этот проект лицензирован под лицензией MIT. Подробности смотрите в [LICENSE](ссылка_на_license).
+Этот проект лицензирован под лицензией MIT. Подробности смотрите в [LICENSE](https://opensource.org/license/MIT).
 
 ## Контакты
 
-Для вопросов и предложений вы можете связаться со мной по электронной почте: [ваша_почта@example.com](mailto:ваша_почта@example.com).
+Для вопросов и предложений вы можете связаться со мной по электронной почте: [jasursadicov2@gmail.com](mailto:jasursadicov2@gmail.com).
