@@ -1,7 +1,7 @@
 
 # HotSkins
 
-![HotSkins Logo](https://raw.githubusercontent.com/Jas-5808/my-vue-app/9fcb7a672749a44ca59b50c643761796a06e7519/my-vue-app/src/assets/Header/Logo.svg?token=A4SBN4ZU576TXM4OJ2YZKXTHDJCH6) <!-- Здесь можно вставить ссылку на изображение логотипа проекта -->
+![HotSkins Logo](https://raw.githubusercontent.com/Jas-5808/my-vue-app/858f7845601e917f464a2123b6c8bb2ada58aa40/Logo.svg?token=A4SBN45S5JNQIUVGQTCW3STHDJETS) <!-- Здесь можно вставить ссылку на изображение логотипа проекта -->
 
 ## О проекте
 
@@ -9,7 +9,7 @@
 
 ## Демо
 
-Посмотрите [демонстрацию приложения](ссылка_на_демо).
+Посмотрите [демонстрацию приложения](https://heroic-basbousa-066380.netlify.app/).
 
 ## Скриншоты
 
