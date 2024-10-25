@@ -9,5 +9,6 @@
 <style scoped>
 .container {
     color: black;
+    height: calc(100vh - var(--Header-height) - var(--Footer-height));
 }
 </style>

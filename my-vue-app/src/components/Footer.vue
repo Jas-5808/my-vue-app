@@ -20,7 +20,7 @@
 <style scoped>
 footer {
     width: 100vw;
-    height: 3rem;
+    height: var(--Footer-height);
     background-color: #20222A;
     display: flex;
     align-items: center;

@@ -66,7 +66,7 @@ function toggleDropdown() {
 <style scoped>
 header {
     width: 100vw;
-    height: 72px;
+    height: var(--Header-height);
     background-color: #20222A;
     display: flex;
     justify-content: center;
