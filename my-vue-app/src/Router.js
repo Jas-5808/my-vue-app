@@ -1,9 +1,9 @@
 import { createRouter, createWebHistory } from 'vue-router';
-// import Home from './views/Home.vue'; // Импортируй твои компоненты
+ import Home from './views/Home.vue'; // Импортируй твои компоненты
 // import About from './views/About.vue'; // Импортируй другие компоненты
 
 const routes = [
-  // { path: '/', component: Home },
+   { path: '/', component: Home },
   // { path: '/about', component: About },
 ];
 
