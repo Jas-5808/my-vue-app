@@ -8,7 +8,7 @@
                 <nav>
                     <ul>
                         <li><a href="#">Помощь</a></li>
-                        <li><a href="#">Контакты</a></li>
+                        <li><router-link to="/about">Контакты</router-link></li>
                         <li><a href="#">Пользовательское соглашение</a></li>
                     </ul>
                 </nav>

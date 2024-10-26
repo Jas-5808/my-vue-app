@@ -3,11 +3,11 @@
         <div class="container">
             <div class="content">
                 <div class="leftHeader">
-                    <img src="../assets/Header/Logo.svg" alt="Логотип" />
+                    <router-link to="/"><img src="../assets/Header/Logo.svg" alt="Логотип" /></router-link>
                     <nav>
-                        <ul>
+                        <ul class="rubik">
                             <li><a href="#">Помощь</a></li>
-                            <li><a href="#">Контакты</a></li>
+                            <li><router-link to="/about">Контакты</router-link></li>
                         </ul>
                     </nav>
                 </div>
@@ -71,6 +71,8 @@ header {
     display: flex;
     justify-content: center;
     color: #FFFFFF;
+    
+
 }
 
 img {
